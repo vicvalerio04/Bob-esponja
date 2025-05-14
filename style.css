@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    border-color: rgb(59, 31, 243);
+    border-style: dashed;
+    border-width: px;
+    background-color: rgb(251, 255, 0);
+}
+h2 {
+    text-align: center;
+    border-color: rgb(15, 83, 228);
+    border-style: dashed;
+    border-width: px;
+    background-color: rgb(192, 233, 30);
+}
+
+h3 {
+    text-align: center;
+    border-color: rgb(253, 249, 19);
+    border-style: dashed;
+    border-width: px;
+    background-color: rgb(48, 18, 182);
+}
+
+h4 {
+    text-align: center;
+    border-color: blue;
+    border-style: dashed;
+    border-width: px;
+    background-color: rgb(247, 220, 47);
+}
